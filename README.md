@@ -16,7 +16,8 @@
 
 ## Тест‑кейсы
 
-Открыть таблицу.
+📋 [Таблица с тест‑кейсами (Google Sheets)](https://docs.google.com/spreadsheets/d/1L33ehAZIx0rLt4-WkmlQGKnaEUaJ8yxqTmjsP5qLoDA/edit?usp=sharing)
+
 
 ## Баг‑репорты
 
