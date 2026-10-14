@@ -25,6 +25,8 @@
 - [📋 Тест‑кейсы и чек‑листы (Google Sheets)](https://docs.google.com/spreadsheets/d/1vIGhnCz5qW0vaddcoedzBrgk3hFjDbvHM6z0Kj_-qgQ/edit?usp=sharing)
 - [🐞 Баг‑репорты (Google Sheets)](https://docs.google.com/spreadsheets/d/1mnEGHOnp5TolW3Be5nEGlaCiKbK8gTd5EsgndKw-LQs/edit?usp=sharing)
 
+---
+
 ## 📱 Проект 2: Тестирование мобильного приложения
 
 **Цель проекта:** обеспечить качество мобильного приложения через проверку функциональности, регрессии и соответствия UI‑макетам.
