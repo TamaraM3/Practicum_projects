@@ -22,6 +22,7 @@
 **Инструменты:** Android Studio, Postman, скриншоты, чек‑листы и тест‑кейсы.
 
 **Полезные материалы:**
+
 <a href="https://docs.google.com/spreadsheets/d/1vIGhnCz5qW0vaddcoedzBrgk3hFjDbvHM6z0Kj_-qgQ/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">📋 Тест‑кейсы и чек‑листы</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1mnEGHOnp5TolW3Be5nEGlaCiKbK8gTd5EsgndKw-LQs/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #d73a49; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">🐞 Баг‑репорты</a>
@@ -45,8 +46,10 @@
 **Инструменты:** Apidoc, Postman, Google Sheets (чек‑листы и баг‑репорты).
 
 **Полезные материалы:**
-- 📋 [Чек‑лист проверок (Google Sheets)](https://docs.google.com/spreadsheets/d/1YwA8HMBICmio45QFKyhwWYK0sGqHNzqouL4Qk9MRV-4/edit?usp=sharing)
-- 🐞 [Баг‑репорты (Google Sheets)](https://docs.google.com/spreadsheets/d/1_yRkb7ep38Ubg0OkmGREmkcROVPeTuUaKDvaTqy5qe8/edit?usp=sharing)
+
+<a href="https://docs.google.com/spreadsheets/d/1YwA8HMBICmio45QFKyhwWYK0sGqHNzqouL4Qk9MRV-4/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">📋 Чек‑лист проверок</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1_yRkb7ep38Ubg0OkmGREmkcROVPeTuUaKDvaTqy5qe8/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #d73a49; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">🐞 Баг‑репорты</a>
 
 ---
 
