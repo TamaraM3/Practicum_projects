@@ -20,7 +20,7 @@
 
 **Полезные материалы:**
 - [📋 Таблица с тест‑кейсами (Google Sheets)](https://docs.google.com/spreadsheets/d/1vEyTJZan95kHHZy2mKjSrlrTBXSHkzMexhuEzzsSKp0/edit?usp=sharing)
-- [🐞 Таблица баг‑репортов (Google Sheets)](https://docs.google.com/spreadsheets/d/1aGfD-eYsaWj7-Jh4klLArDeI08pcJYeg7I9vrKH95k8/edit?usp=sharing)
+- [🐞 Таблица баг‑репортов (Google Sheets)](https://docs.google.com/spreadsheets/d/1mnEGHOnp5TolW3Be5nEGlaCiKbK8gTd5EsgndKw-LQs/edit?usp=sharing)
 
 ---
 
