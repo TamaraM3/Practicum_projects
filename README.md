@@ -4,6 +4,7 @@
 
 В каждом — артефакты (чек‑листы, тест‑кейсы, баг‑репорты), применение техник тест‑дизайна и фокус на качестве пользовательских сценариев. 📊✨
 
+
 ---
 
 ## 📦 Проект 1: Комплексное тестирование стека сервиса доставки (веб, мобильное приложение, REST API)
@@ -99,5 +100,6 @@
 <a href="https://docs.google.com/spreadsheets/d/1rr6TLqZUmB_DglL4_DenXGg_X8HgOuLbqKX1ipW8VAk/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">📋 Чек‑листы и тест‑кейсы</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1AmFl-HcpkoSPZXYYgYIwDjoD9JQlceNkiu4Hoh98SbI/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">🐞 Баг‑репорты</a>
+
 
 💡 **Важно:** доступ к Google‑таблицам — по ссылке, роль «Читатель». При необходимости предоставлю расширенные права.
