@@ -9,7 +9,7 @@
 
 ## 📦 Проект 1: Комплексное тестирование стека сервиса доставки (веб, мобильное приложение, REST API)
 
-🏷 #тестирование #API #мобильное #веб #баги #чек_листы
+🏷 Теги: #тестирование #веб #мобильное_приложение #REST_API #Postman #Android_Studio
 
 **Цель проекта:** обеспечить стабильность и корректность работы сервиса доставки за счёт сквозного тестирования всех компонентов: веб‑интерфейса, мобильного приложения и API.
 
@@ -28,9 +28,8 @@
 
 **Полезные материалы:**
 
-<a href="https://docs.google.com/spreadsheets/d/1vIGhnCz5qW0vaddcoedzBrgk3hFjDbvHM6z0Kj_-qgQ/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">📋 Тест‑кейсы и чек‑листы</a>
-
-<a href="https://docs.google.com/spreadsheets/d/1mnEGHOnp5TolW3Be5nEGlaCiKbK8gTd5EsgndKw-LQs/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #d73a49; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">🐞 Баг‑репорты</a>
+🏷 **[#чек_листы](https://docs.google.com/spreadsheets/d/1vIGhnCz5qW0vaddcoedzBrgk3hFjDbvHM6z0Kj_-qgQ/edit?usp=sharing)** — тест‑кейсы и чек‑листы по проекту.  
+🏷 **[#баг_репорты](https://docs.google.com/spreadsheets/d/1mnEGHOnp5TolW3Be5nEGlaCiKbK8gTd5EsgndKw-LQs/edit?usp=sharing)** — баг‑репорты с приоритизацией и статусами.
 
 ---
 
