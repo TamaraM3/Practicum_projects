@@ -53,6 +53,8 @@
 
 ## 📱 Проект 3: Тестирование мобильного приложения метро
 
+🏷 Теги: #мобильное_тестирование #регрессия #функциональное_тестирование #UI_тестирование #Android_Studio #Figma
+
 **Цель проекта:** обеспечить качество мобильного приложения через проверку функциональности, регрессии и соответствия UI‑макетам.
 
 **Что делала:**
@@ -66,12 +68,15 @@
 **Инструменты:** Android Studio, Figma, скриншоты, чек‑листы.
 
 **Полезные материалы:**
-- [📋 Чек‑лист функционального и регрессионного тестирования](https://docs.google.com/spreadsheets/d/1vEyTJZan95kHHZy2mKjSrlrTBXSHkzMexhuEzzsSKp0/edit?usp=sharing)
-- [🐞 Примеры баг‑репортов](https://docs.google.com/spreadsheets/d/1aGfD-eYsaWj7-Jh4klLArDeI08pcJYeg7I9vrKH95k8/edit?usp=sharing)
+
+🏷 **[#чек_листы](https://docs.google.com/spreadsheets/d/1vEyTJZan95kHHZy2mKjSrlrTBXSHkzMexhuEzzsSKp0/edit?usp=sharing)** — чек‑лист функционального и регрессионного тестирования.  
+🏷 **[#баг_репорты](https://docs.google.com/spreadsheets/d/1aGfD-eYsaWj7-Jh4klLArDeI08pcJYeg7I9vrKH95k8/edit?usp=sharing)** — примеры баг‑репортов со структурированными данными.
 
 ---
 
 ## 🚗 Проект 4: Тестирование веб‑приложения каршеринга
+
+🏷 Теги: #каршеринг #веб_тестирование #вёрстка #функциональное_тестирование #тест_дизайн #Figma
 
 **Цель проекта:** обеспечить корректность вёрстки и логики ключевых сценариев бронирования и оплаты в веб‑приложении каршеринга.
 
@@ -92,9 +97,8 @@
 
 **Полезные материалы:**
 
-<a href="https://docs.google.com/spreadsheets/d/1rr6TLqZUmB_DglL4_DenXGg_X8HgOuLbqKX1ipW8VAk/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">📋 Чек‑листы и тест‑кейсы</a>
-
-<a href="https://docs.google.com/spreadsheets/d/1AmFl-HcpkoSPZXYYgYIwDjoD9JQlceNkiu4Hoh98SbI/edit?usp=sharing" style="display: inline-block; padding: 10px 16px; background-color: #24292e; color: #fff; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px;">🐞 Баг‑репорты</a>
+🏷 **[#чек_листы_и_тест_кейсы](https://docs.google.com/spreadsheets/d/1rr6TLqZUmB_DglL4_DenXGg_X8HgOuLbqKX1ipW8VAk/edit?usp=sharing)** — чек‑листы (63 и 50 пунктов) и тест‑кейсы по ключевым сценариям.  
+🏷 **[#баг_репорты](https://docs.google.com/spreadsheets/d/1AmFl-HcpkoSPZXYYgYIwDjoD9JQlceNkiu4Hoh98SbI/edit?usp=sharing)** — 27 заведённых дефектов с детализацией и приоритизацией.
 
 
 💡 **Важно:** доступ к Google‑таблицам — по ссылке, роль «Читатель». При необходимости предоставлю расширенные права.
